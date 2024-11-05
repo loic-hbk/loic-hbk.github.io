@@ -1,0 +1,19 @@
+header {
+    background-color: green;
+      color: white;
+    }
+
+body {
+    background-color: greenyellow;
+    margin: 0;
+}
+
+main {
+    margin: auto;
+    max-width: 1000px;
+}
+
+.banner {
+    display : flex;
+    justify-content: center;
+}
