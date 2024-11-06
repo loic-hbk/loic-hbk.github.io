@@ -22,3 +22,7 @@ img {
     max-width: 1000px;
     max-height: 500px;
 }
+
+.red {
+    background-color: red;
+}
