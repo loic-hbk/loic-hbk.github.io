@@ -17,3 +17,8 @@ main {
     display : flex;
     justify-content: center;
 }
+
+img {
+    max-width: 1000px;
+    max-height: 500px;
+}
