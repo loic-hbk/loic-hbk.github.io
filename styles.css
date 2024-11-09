@@ -11,6 +11,7 @@ body {
 main {
     margin: auto;
     max-width: 1000px;
+    padding: 10px;
 }
 
 .banner {
@@ -26,3 +27,5 @@ img {
 .red {
     background-color: red;
 }
+
+.rose {background-color: orangered;}
